@@ -14,3 +14,7 @@ function divNum(n1,n2){
     console.log(`${n1}/${n2}= ${n1/n2}`)
 }
 divNum(25,5);
+function mulNum(n1,n2){
+    console.log(`${n1}*${n2}= ${n1*n2}`)
+}
+mulNum(5,3);
